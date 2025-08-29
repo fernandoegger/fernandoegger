@@ -35,8 +35,7 @@
 <h2 align="center">⚡ Minhas Stacks ⚡</h2>
 <br/>
 
-<div style="display:block">
-<div style="display: flex; justify-content: center; gap: 0.1%;">
+<div align="center" style="gap: 0.1%;">
 <!-- HTML -->
 <img src="./imgs/html5-original.svg" title="HTML5" width="50"/>
 
@@ -60,7 +59,7 @@
 <img src="./imgs/blazor-original.svg" title="Blazor" width="50" />
 </div>
 
-<div style="display: flex; justify-content: center; gap: 0.1%; margin-top: 0.75%;">
+<div align="center" style="gap: 0.1%; margin-top: 0.75%;">
     <!-- React -->
 <img src="./imgs/react-original.svg" title="React" width="50"/>
 
@@ -86,9 +85,6 @@
 <!-- Git -->
 <img src="./imgs/git-original.svg" title="Git" width="50" />
 </div>
-<br>
-</div>
-
 <br/>
 <hr/>
 
