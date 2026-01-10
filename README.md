@@ -89,7 +89,7 @@
 <hr/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fernandoegger/salesp07/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/fernandoegger/fernandoegger/output/github-contribution-grid-snake.svg" />
 </div>
 
 <div align=center>
