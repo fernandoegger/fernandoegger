@@ -1,19 +1,20 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Fernando!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Fernando!;" />
 </h1>
 
-<h3 align="center">Desenvolvedor Web FullStack</h3>
+<h3 align="center">A passionate software developer from Brazil 🇧🇷</h3>
 
 <div align="center">
 
-🚀 Desenvolvedor Full Stack com foco em Back-end
 
-🌱 Graduando em **Engenharia da Computação**
+🌱 Computer Engineering undergrad
 
-🛠️ Especializado em criar APIs e serviços com **.NET**
+🛠️ Full-Stack Developer | Backend-focused
 
-🔧 Buscando sempre manter o código limpo e manutenível
+🔧 Clean code enthusiast
+
+🚀 Always seeking new knowledge
 
 </div>
 
@@ -32,7 +33,7 @@
 
  <hr/>
 
-<h2 align="center">⚡ Minhas Stacks ⚡</h2>
+<h2 align="center">⚡ My Stacks ⚡</h2>
 <br/>
 
 <div align="center" style="gap: 0.1%;">
