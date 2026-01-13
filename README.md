@@ -26,9 +26,9 @@
   <a href="https://linkedin.com/in/fernando-egger" target="_blank">
     <img src="./imgs/LinkedIn-0077B5.svg"/>
   </a>
-  <a href="https://fernandoegger.github.io" target="_blank">
+  <!-- <a href="https://fernandoegger.github.io" target="_blank">
      <img src="./imgs/Portfolio-FF5722.svg"/>
-  </a>
+  </a> -->
 </div>
 
  <hr/>
