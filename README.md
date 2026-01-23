@@ -47,8 +47,13 @@
 <img src="./imgs/javascript-original.svg" title="JavaScript" width="50"/>
 
 <!-- TS -->
-
 <img src="./imgs/typescript-original.svg" title="TypeScript" width="50"/>
+
+<!-- NodeJS -->
+<img src="./imgs/nodejs-original-wordmark.svg" title="NodeJS" width="50"/>
+
+<!-- NodeJS -->
+<img src="./imgs/express-original.svg" title="ExpressJS" width="50"/>
 
 <!-- C# -->
 <img src="./imgs/csharp-original.svg" title="C#" width="50"/>
@@ -67,15 +72,14 @@
 <!-- Materialize -->
 <img src="./imgs/materializecss-original.svg" title="MaterializeCSS" width="50"/>
 
+<!-- TailwindCSS -->
+<img src="./imgs/tailwindcss-original.svg" title="TailwindCSS" width="50"/>
 
 <!-- Bootstrap -->
 <img src="./imgs/bootstrap-original.svg" title="Bootstrap" width="50"/>
 
 <!-- Entity Framework -->
 <img src="./imgs/entityframeworkcore-original.svg" title="Entity Framework" width="50"/>
-
-<!-- DBeaver -->
-<img src="./imgs/dbeaver-original.svg" title="DBeaver" width="50"/>
 
 <!-- SQL Server -->
  <img src="./imgs/microsoftsqlserver-original.svg" title="SQL Server" width="50"/>
