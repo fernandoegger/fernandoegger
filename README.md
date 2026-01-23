@@ -50,7 +50,7 @@
 <img src="./imgs/typescript-original.svg" title="TypeScript" width="50"/>
 
 <!-- NodeJS -->
-<img src="./imgs/nodejs-original-wordmark.svg" title="NodeJS" width="50"/>
+<img src="./imgs/nodejs-original.svg" title="NodeJS" width="50"/>
 
 <!-- NodeJS -->
 <img src="./imgs/express-original.svg" title="ExpressJS" width="50"/>
